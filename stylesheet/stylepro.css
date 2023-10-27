@@ -1,0 +1,19 @@
+@import "reset.css";
+@import url('https://fonts-online.ru/fonts/old-standard-tt');
+
+@import 'content.css';
+
+
+
+@font-face {
+    font-family: "Old Standard TT";
+    src: url("шрифты/OldStandard-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Old Standard TT";
+    src: url("шрифты/OldStandard-Italic.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Old Standard TT";
+    src: url("шрифты/OldStandard-Regular.ttf") format("truetypet");
+  }

@@ -1,0 +1,225 @@
+
+body{
+
+overflow-x: hidden;
+height: auto;
+width: 1440px;
+}
+
+
+.звезда{
+ 
+  position:absolute ;
+  left: 60px;
+  top: 0px;
+  margin:0px;
+    
+}
+
+
+.flag {
+  padding-top:59px ;
+  position: absolute;
+top: 1800px; left:650px
+
+}
+
+.opisanie {
+  position: absolute;
+  top: 780px; left:9px;
+color: #000000;
+font-family: Old Standard TT;
+font-size: 31px;
+font-style: normal;
+}
+.sis {
+margin: 0%;
+position: absolute;
+top: 600px; left:600px
+}
+
+
+.oshr{
+  position: absolute;
+top: 1450px; left:60px;
+  color: #FFF;
+font-family: Old Standard TT;
+font-size: 75px;
+font-style: normal;
+font-weight: 400;
+}
+p {
+  position: absolute;
+  top: 1580px; left:67px;
+color: #FFF;
+font-family: Old Standard TT;
+font-size: 31px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.black-block {
+  width: 100%;
+
+  padding-top: 1070px;
+}
+.siren-block> .textyfs{
+  position: absolute;
+  top: 2500px; left:800px;
+color: #ffffff;
+font-family: Old Standard TT;
+font-size: 31px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+z-index: 2;}
+
+.siren-block> .nah {
+  position: absolute;
+  top: 2390px; left:800px;
+color: #ffffff;
+font-family: Old Standard TT;
+font-size: 75px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+z-index: 2;}
+
+
+
+.card {
+  position: absolute;
+  top: 2235px;
+  z-index: 1;
+
+ 
+  
+}
+.box-black {
+  width: 100%;
+  padding-top: 1000px;
+ 
+}
+
+.blackf{
+  z-index: 1;
+ 
+  
+}
+
+.box-black> .os {
+  position: relative;
+  top: 700px; left:67px;
+  z-index: 2;
+  color: #FF0000;
+  font-family: Old Standard TT;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.box-black> .bukva1 {
+  position: absolute;
+  top: 4350px; left:100px;
+  z-index: 3;
+}
+
+.box-black> .bukva2 {
+  position: absolute;
+  top:4400px; left:910px;
+  z-index: 4;
+}
+
+.box-black> .bukva3 {
+  position: absolute;
+  top: 4750px; left: 910px;
+  z-index: 5;
+}
+
+.k{
+  color: #F00;
+
+ 
+  font-family: Old Standard TT;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 4220px; left:810px;
+}
+
+.b{
+  color: #F00;
+
+ 
+  font-family: Old Standard TT;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 4480px; left:810px; 
+}
+
+.l {
+  color: #F00;
+
+ 
+  font-family: Old Standard TT;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 4820px; left:810px; 
+}
+
+.doll {
+  position: absolute;
+  top: 4120px; 
+ 
+}
+
+.red-block {
+  width: 1440px;
+ background color: #FF0000;
+  position: absolute;
+  top: 6800px; 
+}
+
+.skidki {
+  color: #FFF;
+
+  font-family: Old Standard TT;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top:60px;left:67px;
+
+}
+
+.skidki2{
+  position: absolute;
+  top:-30px;left:1010px;
+}
+.strelka{
+  position: absolute;
+  top:110px;left:610px; 
+}
+
+.wich{
+ position: absolute;
+    top: 7147px; 
+}
+
+.blo {
+  position: absolute; 
+  left: -18px;
+}
